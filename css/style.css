@@ -1,0 +1,17 @@
+.game {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.game span {
+	display: inline-block;
+	width: 120px;
+	margin: 0 auto;
+}
+
+#js-newGameButton {
+	margin: 20px 0;
+}
+.row .text-center {
+	margin: 10px 0;
+}
